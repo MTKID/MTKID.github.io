@@ -54,8 +54,11 @@ article{
   width: 74%;
   background-color: #dddddd;
 }
+article img{
+  margin-bottom:1rem;
+}
 article p{
-  margin-bottom: 1rem
+  margin-bottom: 1rem;
 }
 /*サイドバー*/
 aside{
@@ -93,9 +96,7 @@ aside{
 .sub-menu a:hover{
   color: #0bd
 }
-article img{
-  margin-bottom:1rem;
-}
+
 /*SNS*/
 #sns{
   background-color:#dddddd;
