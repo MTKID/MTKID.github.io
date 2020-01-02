@@ -65,6 +65,9 @@ aside{
   width:22%;
   background-color: #dddddd;
 }
+aside p{
+  margin-bottom: 1rem;
+  }
 .blog-contents{
   display: flex;
   justify-content: space-between;
